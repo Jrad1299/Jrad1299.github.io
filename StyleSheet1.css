@@ -1,0 +1,61 @@
+﻿body
+{
+    background-color: black;
+}
+
+li a {
+    background-color: white;
+    color: crimson;
+    text-decoration: none;
+    padding: 1em 1.5em;
+    display: block;
+    margin: 10px;
+    text-transform: uppercase;
+    border-radius: 25px;
+    float: left;
+    width: 16.2%;
+}
+
+    li a:hover {
+        background-color: orange;
+    }
+
+a{
+    text-align: center;
+    font-family: 'Trebuchet MS';
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    background-color: orangered;
+    height: 70px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.Header{
+background-color: darkblue;
+color: white;
+padding: 20px;
+border-radius: 25px;
+
+}
+
+.Main {
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 25px;
+    font-family: 'Trebuchet MS';
+}
+
+h1{
+    margin: 0;
+    font-size-adjust: 1;
+    font-family: 'Trebuchet MS';
+}
